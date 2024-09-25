@@ -1,0 +1,11 @@
+ID Name Age Department Salary
+1 John_Doe 28 Engineering 75000
+2 Jane_Smith 34 Marketing 68000
+3 Emily_Davis 25 HR 62000
+4 Michael_Brown 40 Finance 85000
+5 Anna_Wilson 29 Engineering 77000
+6 David_Johnson 38 Sales 72000
+7 Lisa_White 30 HR 60000
+8 James_Green 45 Finance 92000
+9 Mary_Adams 27 Sales 69000
+10 Robert_King 33 Marketing 71000
